@@ -1,9 +1,4 @@
-## Welcome to Swapnil's Github page
-
-You can use the [editor on GitHub](https://github.com/SwapnilH09/SwapnilH09.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## Welcome to Swapnil's web home
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -12,9 +7,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-Hey, welcome to my website.. I am a Python programmer, who loves Machine Learning, SQL and Bash
+Hey, welcome here!! I would love to know you. Drop me a mail at hansrajswapnil@outlook.com <br>
+I am a Python programmer, who loves Machine Learning, SQL and Bash
 ## Header 2
-
+Currently, I am working as a Devops Trainee, honing my Linux skills and understanding Apache's behvious in use-cases. This is not the first time I have welcomed a skill unexpectedly. Before, I had to learn AWS, as my machine learning datasets' size scaled upto 200 GiB. 
 ### Header 3
 
 - Bulleted
