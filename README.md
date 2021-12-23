@@ -10,7 +10,9 @@ Syntax highlighted code block
 Hey, welcome here!! I would love to know you. Drop me a mail at hansrajswapnil@outlook.com <br>
 I am a Python programmer, who loves Machine Learning, SQL and Bash
 ## Header 2
-Currently, I am working as a Devops Trainee, honing my Linux skills and understanding Apache's behvious in use-cases. This is not the first time I have welcomed a skill unexpectedly. Before, I had to learn AWS, as my machine learning datasets' size scaled upto 200 GiB. 
+Currently, I am working as a Devops Trainee, honing my Linux skills and understanding Apache's behvious in use-cases. <br> 
+This is not the first time I have welcomed a skill unexpectedly. Before, I had to learn AWS, <br>
+as my machine learning datasets' size scaled upto 200 GiB. 
 ### Header 3
 
 - Bulleted
